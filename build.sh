@@ -1,4 +1,4 @@
-#!/ bin / bash
+#!/bin/bash
 
 rm *. class # clean project
 javac Calc . java # compile project
